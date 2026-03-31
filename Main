@@ -1,0 +1,429 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Imagination World 3 - Official Report</title>
+
+<style>
+body {
+  margin: 0;
+  font-family: Georgia, 'Times New Roman', serif;
+  background: #0b0f1a;
+  color: #eaeaea;
+  line-height: 1.7;
+}
+
+/* TOP BAR */
+.topbar {
+  background: #111827;
+  padding: 10px 40px;
+  display: flex;
+  justify-content: space-between;
+  font-size: 0.85rem;
+  border-bottom: 1px solid #222;
+}
+
+.logo {
+  font-weight: bold;
+  letter-spacing: 2px;
+}
+
+.tag {
+  color: #60a5fa;
+}
+
+/* HEADER */
+.header {
+  max-width: 1000px;
+  margin: auto;
+  padding: 40px;
+}
+
+h1 {
+  font-size: 2.6rem;
+}
+
+.subtitle {
+  color: #9ca3af;
+}
+
+/* HERO IMAGE */
+.hero-img {
+  width: 100%;
+  max-width: 900px;
+  display: block;
+  margin: 30px auto;
+  border-radius: 12px;
+  box-shadow: 0 0 40px rgba(0,0,0,0.6);
+}
+
+/* SECTIONS */
+.section {
+  max-width: 900px;
+  margin: auto;
+  padding: 30px 40px;
+}
+
+.card {
+  background: rgba(255,255,255,0.06);
+  padding: 18px;
+  border-radius: 12px;
+  margin-top: 15px;
+  border: 1px solid rgba(255,255,255,0.08);
+}
+
+/* CHARACTER IMAGE */
+.char-img {<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Imagination World 3 - Official Report</title>
+
+<style>
+body {
+  margin: 0;
+  font-family: Georgia, 'Times New Roman', serif;
+  background: #0b0f1a;
+  color: #eaeaea;
+  line-height: 1.7;
+}
+
+/* TOP BAR */
+.topbar {
+  background: #111827;
+  padding: 10px 40px;
+  display: flex;
+  justify-content: space-between;
+  font-size: 0.85rem;
+  border-bottom: 1px solid #222;
+}
+
+.logo {
+  font-weight: bold;
+  letter-spacing: 2px;
+}
+
+.tag {
+  color: #60a5fa;
+}
+
+/* HEADER */
+.header {
+  max-width: 1000px;
+  margin: auto;
+  padding: 40px;
+}
+
+h1 {
+  font-size: 2.6rem;
+}
+
+.subtitle {
+  color: #9ca3af;
+}
+
+/* HERO IMAGE */
+.hero-img {
+  width: 100%;
+  max-width: 900px;
+  display: block;
+  margin: 30px auto;
+  border-radius: 12px;
+  box-shadow: 0 0 40px rgba(0,0,0,0.6);
+}
+
+/* SECTIONS */
+.section {
+  max-width: 900px;
+  margin: auto;
+  padding: 30px 40px;
+}
+
+.card {
+  background: rgba(255,255,255,0.06);
+  padding: 18px;
+  border-radius: 12px;
+  margin-top: 15px;
+  border: 1px solid rgba(255,255,255,0.08);
+}
+
+/* CHARACTER IMAGE */
+.char-img {
+  width: 100%;
+  border-radius: 10px;
+  margin-bottom: 10px;
+}
+
+/* QUOTE */
+.quote {
+  border-left: 3px solid #3b82f6;
+  padding-left: 15px;
+  font-style: italic;
+  color: #cbd5e1;
+}
+
+/* NEWS IMAGE */
+.news-img {
+  width: 100%;
+  margin-top: 20px;
+  border-radius: 12px;
+}
+
+/* FOOTER */
+.footer {
+  text-align: center;
+  padding: 40px;
+  font-size: 0.8rem;
+  color: #6b7280;
+  border-top: 1px solid #222;
+}
+</style>
+</head>
+
+<body>
+
+<!-- TOP BAR -->
+<div class="topbar">
+  <div class="logo">GLOBAL ENTERTAINMENT REPORT</div>
+  <div class="tag">Verified Industry Intelligence</div>
+</div>
+
+<!-- HEADER -->
+<div class="header">
+  <h1>Imagination World 3 Reportedly Structured as a 3 Season Animated series</h1>
+  <div class="subtitle">
+    A high-budget psychological multiverse animation project under global production development.
+  </div>
+</div>
+
+<!-- HERO IMAGE (ใส่รูปหลักตรงนี้) -->
+<img class="hero-img" src="1245_20250713032329.png" alt="Imagination World 3">
+
+<!-- ABOUT -->
+<div class="section">
+  <h2>Project Overview</h2>
+  <div class="card">
+    A broken world where no one wants to leave... and some will kill to escape.
+  </div>
+</div>
+
+<!-- CHARACTERS -->
+<div class="section">
+  <h2>Characters</h2>
+
+  <!-- TOMYUM -->
+  <div class="card">
+    <img class="char-img" src="44_20251210212359.png" alt="Tomyum">
+    <b>Tomyum</b> — A boy searching for truth
+  </div>
+
+  <!-- SISTER -->
+  <div class="card">
+    <img class="char-img" src="44_20251210212854.png" alt="His Sister">
+    <b>His Sister</b> — The one who knows everything
+  </div>
+</div>
+
+<!-- SEASON STRUCTURE -->
+<div class="section">
+  <h2>Series Structure</h2>
+
+  <div class="card">
+    <b>Season 1 (10 Episodes)</b><br>
+    Discovery of Imagination World and first ideological conflict.
+  </div>
+
+  <div class="card">
+    <b>Season 2 (10 Episodes)</b><br>
+    Expansion of multiverse layers and hidden truths.
+  </div>
+
+  <div class="card">
+    <b>Season 3 (10 Episodes)</b><br>
+    Collapse of reality and final convergence event.
+  </div>
+</div>
+
+<!-- NEWS SECTION -->
+<div class="section">
+  <h2>Official Industry Report</h2>
+
+  <div class="card">
+    <p>
+      According to preliminary industry intelligence, <b>Imagination World 3</b> is currently under
+      development as a large-scale animated production involving international studios and streaming platforms.
+    </p>
+
+    <p>
+      The project is expected to be distributed through multiple premium services, including negotiations
+      with <b>HBO Come</b> and other global streaming partners.
+    </p>
+
+    <div class="quote">
+      “A transmedia psychological experiment exploring attachment to unstable realities.”
+    </div>
+
+    <p>
+      The narrative follows Tomyum and his sister as they navigate a collapsing multiverse where reality itself becomes unstable.
+    </p>
+
+    <!-- NEWS IMAGE (ใส่รูปข่าว/โลกตรงนี้) -->
+    <img class="news-img" src="news_world.png" alt="World Visual">
+
+    <p style="margin-top:20px; opacity:0.7;">
+      Source: internal production briefings, animation analysts, early promotional materials.
+    </p>
+
+    <p style="margin-top:30px; font-weight:bold;">
+      สุขสันต์วันโกหก 😈
+    </p>
+  </div>
+</div>
+
+<!-- FOOTER -->
+<div class="footer">
+  © 2026 Imagination World 3 — Official Production Report
+</div>
+
+</body>
+</html>
+  width: 100%;
+  border-radius: 10px;
+  margin-bottom: 10px;
+}
+
+/* QUOTE */
+.quote {
+  border-left: 3px solid #3b82f6;
+  padding-left: 15px;
+  font-style: italic;
+  color: #cbd5e1;
+}
+
+/* NEWS IMAGE */
+.news-img {
+  width: 100%;
+  margin-top: 20px;
+  border-radius: 12px;
+}
+
+/* FOOTER */
+.footer {
+  text-align: center;
+  padding: 40px;
+  font-size: 0.8rem;
+  color: #6b7280;
+  border-top: 1px solid #222;
+}
+</style>
+</head>
+
+<body>
+
+<!-- TOP BAR -->
+<div class="topbar">
+  <div class="logo">GLOBAL ENTERTAINMENT REPORT</div>
+  <div class="tag">Verified Industry Intelligence</div>
+</div>
+
+<!-- HEADER -->
+<div class="header">
+  <h1>Imagination World 3 Reportedly Structured as a 3 Season Animated series</h1>
+  <div class="subtitle">
+    A high-budget psychological multiverse animation project under global production development.
+  </div>
+</div>
+
+<!-- HERO IMAGE (ใส่รูปหลักตรงนี้) -->
+<img class="hero-img" src="1245_20250713032329.png" alt="Imagination World 3">
+
+<!-- ABOUT -->
+<div class="section">
+  <h2>Project Overview</h2>
+  <div class="card">
+    A broken world where no one wants to leave... and some will kill to escape.
+  </div>
+</div>
+
+<!-- CHARACTERS -->
+<div class="section">
+  <h2>Characters</h2>
+
+  <!-- TOMYUM -->
+  <div class="card">
+    <img class="char-img" src="44_20251210212359.png" alt="Tomyum">
+    <b>Tomyum</b> — A boy searching for truth
+  </div>
+
+  <!-- SISTER -->
+  <div class="card">
+    <img class="char-img" src="44_20251210212854.png" alt="His Sister">
+    <b>His Sister</b> — The one who knows everything
+  </div>
+</div>
+
+<!-- SEASON STRUCTURE -->
+<div class="section">
+  <h2>Series Structure</h2>
+
+  <div class="card">
+    <b>Season 1 (10 Episodes)</b><br>
+    Discovery of Imagination World and first ideological conflict.
+  </div>
+
+  <div class="card">
+    <b>Season 2 (10 Episodes)</b><br>
+    Expansion of multiverse layers and hidden truths.
+  </div>
+
+  <div class="card">
+    <b>Season 3 (10 Episodes)</b><br>
+    Collapse of reality and final convergence event.
+  </div>
+</div>
+
+<!-- NEWS SECTION -->
+<div class="section">
+  <h2>Official Industry Report</h2>
+
+  <div class="card">
+    <p>
+      According to preliminary industry intelligence, <b>Imagination World 3</b> is currently under
+      development as a large-scale animated production involving international studios and streaming platforms.
+    </p>
+
+    <p>
+      The project is expected to be distributed through multiple premium services, including negotiations
+      with <b>HBO Come</b> and other global streaming partners.
+    </p>
+
+    <div class="quote">
+      “A transmedia psychological experiment exploring attachment to unstable realities.”
+    </div>
+
+    <p>
+      The narrative follows Tomyum and his sister as they navigate a collapsing multiverse where reality itself becomes unstable.
+    </p>
+
+    <!-- NEWS IMAGE (ใส่รูปข่าว/โลกตรงนี้) -->
+    <img class="news-img" src="news_world.png" alt="World Visual">
+
+    <p style="margin-top:20px; opacity:0.7;">
+      Source: internal production briefings, animation analysts, early promotional materials.
+    </p>
+
+    <p style="margin-top:30px; font-weight:bold;">
+      สุขสันต์วันโกหก 😈
+    </p>
+  </div>
+</div>
+
+<!-- FOOTER -->
+<div class="footer">
+  © 2026 Imagination World 3 — Official Production Report
+</div>
+
+</body>
+</html>
